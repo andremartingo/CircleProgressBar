@@ -1,0 +1,16 @@
+PODS:
+  - TinyConstraints (4.0.0)
+
+DEPENDENCIES:
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  TinyConstraints: 03bc091844b98c18dbaead8b1153242a42721b56
+
+PODFILE CHECKSUM: ad741655cdb08f6416374f6b0e58f91fe9116168
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,6 @@
+framework module Pods_circleprogressbar {
+  umbrella header "Pods-circleprogressbar-umbrella.h"
+
+  export *
+  module * { export * }
+}

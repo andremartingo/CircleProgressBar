@@ -1,0 +1,6 @@
+framework module Pods_circleprogressbarTests {
+  umbrella header "Pods-circleprogressbarTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
