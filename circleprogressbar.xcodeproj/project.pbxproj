@@ -152,7 +152,6 @@
 				EB1B0AA8FBDF0E7145F31B4E /* Pods-circleprogressbarUITests.debug.xcconfig */,
 				C50D3DCB575A8029AB1215AC /* Pods-circleprogressbarUITests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
